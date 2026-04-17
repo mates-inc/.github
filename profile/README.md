@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="700" height="1000" alt="Frame 105 (1)" src="https://github.com/user-attachments/assets/617b388b-e9fa-4f20-aa26-6a1f9fd43b3c" />
+<img width="700" alt="Frame 105 (1)" src="https://github.com/user-attachments/assets/617b388b-e9fa-4f20-aa26-6a1f9fd43b3c" />
 
 # 株式会社メイツ
 
